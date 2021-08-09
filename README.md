@@ -56,3 +56,14 @@ _value1, label1, value2, label2_
 - label1 and label2 should accept any of the following strings: "seconds", "minutes", "hours", "days", "second", "minute", "hour", "day"
 
 **File name** : switchStatments.js
+
+## Assignment 6 :
+
+Write a program that prints the numbers from 1 to 100.
+- But fro multiples of three prints "Fizz", instead of the number,
+- And for the multiple of five prints "Buzz",
+- For number which are multiples of both three and five, print "FizzBuzz" in place of number.
+#### Extra Credits : 
+- Prints prime in place of number, if prime number is encountered. 
+
+ **File name** : FizzBuzz.js
